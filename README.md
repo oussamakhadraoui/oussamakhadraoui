@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **OUssama khadraoui  is a ✨ full stack web dev.
 
 - 🔭 I’m currently working on React JS
