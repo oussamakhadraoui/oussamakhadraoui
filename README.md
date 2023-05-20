@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Next JS
 - 📫 You can reach me on my facebook account
-- ⚡ Fun fact: TypeScript Vue Nuxtjs NextJs Svelte TailwindCSS Bootstrap Material UI Supabase GraphQL NodeJS Express PostgreSQL Firebase Photoshop XD Figma
+- ⚡ Here is my skills
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
