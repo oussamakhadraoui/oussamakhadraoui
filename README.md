@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Next JS
-- 📫 You can reach me on my facebook accoun
+- 📫 You can reach me on my facebook account
 - ⚡ Fun fact: TypeScript Vue Nuxtjs NextJs Svelte TailwindCSS Bootstrap Material UI Supabase GraphQL NodeJS Express PostgreSQL Firebase Photoshop XD Figma
 
 <p align="left">
