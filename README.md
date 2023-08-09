@@ -1,8 +1,8 @@
 ### Hi there 👋
 **Oussama khadraoui  is a ✨ full stack web dev.
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Next JS
+- 🔭 I’m currently working on next JS
+- 🌱 I’m currently learning Nest JS
 - 📫 You can reach me on my facebook account
 - ⚡ Here is my skills
 
