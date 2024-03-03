@@ -28,4 +28,4 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamakhadraoui)](https://github.com/oussamakhadraoui/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamakhadraoui&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamakhadraoui)
